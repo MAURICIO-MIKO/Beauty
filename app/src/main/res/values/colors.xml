@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores existentes -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Colores sugeridos -->
+
+    <color name="Oro">#F5D6A8</color> <!-- Oro suave -->
+    <color name="status_bar_color">#FFFFFF</color> <!-- Color blanco -->
+    <color name="plata">#C0C0C0</color>
+    <color name="soft_pink">#FFC0CB</color> <!-- Rosa Suave -->
+    <color name="gold">#FFD700</color> <!-- Dorado -->
+    <color name="lavender">#E6E6FA</color> <!-- Lavanda -->
+    <color name="silver_gray">#C0C0C0</color> <!-- Gris Plateado -->
+    <color name="coral_pink">#FF6F61</color> <!-- Rosa Coral -->
+    <color name="mint_green">#98FF98</color> <!-- Verde Menta -->
+    <color name="rose_gold">#B76E79</color> <!-- Oro Rosa -->
+    <color name="ivory">#FFFFF0</color> <!-- Marfil -->
+    <color name="aquamarine">#7FFFD4</color> <!-- Aguamarina -->
+    <color name="purple">#9370DB</color> <!-- Púrpura -->
+    <color name="light_pink">#FADADD</color> <!-- Rosa Claro -->
+    <color name="fuchsia_pink">#FF69B4</color> <!-- Rosa Fucsia -->
+</resources>
